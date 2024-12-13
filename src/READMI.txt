@@ -1,0 +1,4 @@
+pcl 1.8.0
+vtk 8.2
+EASY3D:https://github.com/LiangliangNan/Easy3D.
+This code references some of AdTree's(https://github.com/tudelft3d/AdTree) code, and has only been tested on 9 trees (6 tree species), so it cannot guarantee good robustness to other tree species.
